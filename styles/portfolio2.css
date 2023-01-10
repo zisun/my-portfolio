@@ -83,5 +83,47 @@ li img.check{
     display: inline-block;
     height: 18px;
     width: 18px;
-    
+}
+h1.my-plans{
+    display: block;
+    position: relative;
+    top: 250px;
+    left: 550px;
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.856);
+}
+.mplans{
+    display: flex;
+    padding: auto;
+    margin-top: 300px;
+    margin-left: 450px;
+}
+.plan-skills{
+    padding: 50px 50px;
+    position: relative;
+}
+
+#plan1{
+    display: block;
+    padding: 20px;
+    margin: 10px 20px;
+}
+
+#plan2{
+    display: block;
+    padding: 20px;
+    margin: 10px 20px;
+}
+
+#plan3{
+    display: block;
+    padding: 20px;
+    margin: 10px 20px;
+}
+
+#plan4{
+    display: block;
+    padding: 20px;
+    margin: 10px 20px;
+
 }
