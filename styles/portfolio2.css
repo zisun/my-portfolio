@@ -1,0 +1,58 @@
+header {
+    background: url("../images/banner/banner3.png");
+    background-position: 100%;
+    display: block;
+    height: 710px;
+    width: 1400px;
+}
+h1.main-heading{
+    display: inline-block;
+    color: aliceblue;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 750px;
+    top: 260px;
+    font-size: 55px;
+
+}
+p.heading-text{
+    display: inline-block;
+    color: aliceblue;
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 750px;
+    top: 430px;
+}
+.c-button{
+    background-color: aliceblue;
+    display: inline-block;
+    margin-top: 530px;
+    margin-left: 740px;
+    padding: 16px 25px;
+    border: 2px solid rgb(128, 128, 226);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 650;
+    color: rgb(35, 131, 221);
+}
+main{
+    width: 1072px;
+    height: 723.3px;
+    left: 189px;
+    top: 933px;
+
+}
+.img-person{
+    display: inline;
+    margin-left: 50px;
+    margin-bottom: 300px;
+}
+.f-title{
+    display: inline;
+    font-size: 40px;
+    margin-left: 700px;
+    padding: 50px;
+    margin-bottom: 400px;
+}
